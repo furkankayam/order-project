@@ -160,4 +160,4 @@ http://localhost:8080/api/v1/orders/date/2023-01-24
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details
 
-Created by [Mehmet Furkan KAYA](http://www.furkankaya.somee.com)
+Created by [Mehmet Furkan KAYA](https://www.linkedin.com/in/mehmet-furkan-kaya/)
